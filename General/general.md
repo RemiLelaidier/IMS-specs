@@ -1,4 +1,4 @@
-Internship Management System
+Internship Management System (IMS)
 ===
 
 ## Contents
@@ -12,7 +12,7 @@ Internship Management System
 7. [Required Tests](#required-tests)
 8. [Pending Questions](#pending-questions)
 9. [External resources](#external-resources)
-de
+
 ---
 
 Introduction
@@ -38,21 +38,21 @@ Technical Changes
 
 ### The current process is :
 
-- Validate the internship with a manager
+- Validate the internship with a teacher / anyone
 - After validation, the student can grab his convention
-- The convention is filled by the student and the company (3 ex)
+- The convention is filled by the student and the company (3 times)
 - The administration may affect an academic tutor
-- Re-enter extracted info to keep tracability on conventions, what is sent, what is here..
+- Re-enter extracted info to keep traceability on conventions, what is sent, what is there..
 - University send filled convention to "Unice"
-- Convention come back and his given to the student
+- Convention come back and is given to the student
 
 ### The goal is :
 
 - The student come on the IMS web app, fill his informations
 - The university can keep track of everything on some panel, validate details or send errors e-mails
 - After convention "ready", printed for signing and sent to Unice
-- When conventions come back, University just have to populate changes
-- Emails are sent to students when something change 
+- When conventions come back, University just have to populate changes (Bulk changes function)
+- Emails are sent to students when something change and his tutor, to keep everyone updated (to be defined)
 
 
 Deployment Dependencies
@@ -85,4 +85,3 @@ Pending Questions
 Revisions
 ===
 * **09/10/17** : Initial spec after talk with others by Léonard
-
