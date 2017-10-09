@@ -81,6 +81,11 @@ Pending Questions
 - What to use ? On a technology side ?
 - Need to define general UI - for students and administrators
 
+External resources
+---
+
+- Tool used for this task (old but gold) : http://conv.polytech.unice.fr/conv/
+
 
 Revisions
 ===
