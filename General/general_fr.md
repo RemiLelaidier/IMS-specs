@@ -39,12 +39,18 @@ Changements Techniques
 ### Le processus actuel est :
 
 - Validation du stage par un professeur ou une autre personne
-- Après la validation, l'étudiant récupére sa convention
+- Après la validation, l'étudiant récupère sa convention
 - La convention est remplie par l'étudiant et son entreprise (3 fois)
-- L'administration peut affecter un tuteur académique
+- Après avoir rapporté les conventions, une assistante vérifie les points-clés sur la convention (salaire, assurance etc...)
+- Une fois valider, le responsable de stage les signes en tant que tuteur.
 - Les infos sont à nouveau saisies pour garder une traçabilité
-- L'administration envoie la convention remplie à la scolarité
+- L'administration envoie la convention remplie à la scolarité (UFR) pour être signé par la doyenne, ou au responsable des relations internationales si le stage s'effectue à l'étranger. (2 à 3 semaines)
 - La convention revient et est rendue à l'étudiant
+- Une fois le stage commencé le responsable des stages désigne les tuteurs.
+- Après avoir été informé de leurs tuteurs les étudiants rentrent en contact avec ce dernier pour
+planifier une visite.
+- En fin de stage le coordinateur et le responsable de stage s’occupe d’organiser les soutenances de
+stages.
 
 ### L'objectif est :
 
@@ -54,6 +60,7 @@ Changements Techniques
 - Quand la convention revient, les changements sont entrés dans le sytème.
 - Des emails sont envoyés à l'étudiant et son tuteur quand il y a des changements, pour que tout soit à jour (à définir)
 
+- Créations de deux boîtes mail. Une pour les étudiants (pour répondre à leurs questions sur les salaires minimums etc.) et une pour les entreprises voulant proposer des stages.
 
 Dépendances de déploiement
 ---
