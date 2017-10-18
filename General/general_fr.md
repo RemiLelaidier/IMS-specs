@@ -99,4 +99,5 @@ Revisions
 ===
 * **09/10/17** : Specs initiales par Léonard
 * **18/10/17** : Traduction par Rémi
+* **18/10/17** : Enrichissement des objectifs par Nans
  
