@@ -8,7 +8,7 @@ After talk we were done for a "cart like" experience.
 
 The student will be guided through easy steps to his Internship convention
 
-## Home (first time):
+## Informations asked :
 
 ### Step 1 : Student information
 
@@ -42,13 +42,25 @@ The student will be guided through easy steps to his Internship convention
 - Simple textarea to say, anything related to the internship
 
 ### Related screens :
+Step 1 | Main screen :
+![Step 1](https://image.noelshack.com/fichiers/2017/45/5/1510354298-screen-shot-2017-11-10-at-23-50-05.png)
 
-[...]
+Step 1 | Validation error
+![Step 2](https://image.noelshack.com/fichiers/2017/45/5/1510354298-screen-shot-2017-11-10-at-23-50-20-1.png)
 
-## Home (Logged in) :
+Step 2 :
+![Step 2](https://image.noelshack.com/fichiers/2017/45/5/1510354499-screen-shot-2017-11-10-at-23-53-47.png)
 
-<!-- To be defined -->
+Step 3 :
+![Step 3](https://image.noelshack.com/fichiers/2017/45/5/1510354499-screen-shot-2017-11-10-at-23-54-15.png)
+
+Step 4 :
+![Step 4](https://image.noelshack.com/fichiers/2017/45/5/1510354499-screen-shot-2017-11-10-at-23-54-30.png)
+
+Step 5 :
+![Step 5](https://image.noelshack.com/fichiers/2017/45/5/1510354499-screen-shot-2017-11-10-at-23-54-36.png)
 
 Revisions
 ===
+* **10/11/17** : Add screenshots by Léonard
 * **09/10/17** : Initial spec after talk with others by Léonard
