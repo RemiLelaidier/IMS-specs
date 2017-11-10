@@ -11,7 +11,7 @@ Internship Management System (IMS)
 6. [Mise à niveau de la stratégie de données](#mise-à-niveau-de-la-stratégie-de-données)
 7. [Tests Requis](#tests-requis)
 8. [Questions en suspens](#questions-en-suspens)
-9. [Ressources Extérieures](#ressources-extérieures)
+9. [Ressources](#ressources-extérieures)
 
 ---
 
@@ -85,11 +85,10 @@ Vérification avec l'administration
 Questions en suspens
 ---
 
-- Quoi utiliser ? Technologiquement ?
-- Interface Utilisateur à définir - Etudiants & Administration
+- Interface Utilisateur à définir : Administration
 
 
-Ressources Extérieures
+Ressources
 ---
 
 - Outil actuel (vieux mais fonctionnel) : http://conv.polytech.unice.fr/conv/
@@ -100,4 +99,3 @@ Revisions
 * **09/10/17** : Specs initiales par Léonard
 * **18/10/17** : Traduction par Rémi
 * **18/10/17** : Enrichissement des objectifs par Nans
- 
