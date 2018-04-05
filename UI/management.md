@@ -16,3 +16,7 @@ Several component are needed
 This component must shown the students's list, each student must have a color that show 
 
 ### Component "Schedule"
+
+Revisions
+===
+* **05/04/18** : First spec after talk with Mr. Winter

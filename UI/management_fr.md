@@ -80,3 +80,7 @@ Section Statut:
 ### Composant "Student Events"
 
 ------ TODO
+
+Revisions
+===
+* **05/04/18** : Première version après réunion avec Mr. Winter

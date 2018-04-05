@@ -64,5 +64,6 @@ Step 5 :
 
 Revisions
 ===
+* **05/04/18** : Complete informations asked section
 * **10/11/17** : Add screenshots by Léonard
 * **09/10/17** : Initial spec after talk with others by Léonard
