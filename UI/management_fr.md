@@ -79,7 +79,9 @@ Section Statut:
 
 ### Composant "Student Events"
 
------- TODO
+Ce composant doit afficher les événements relatifs à l'étudiant, comme par exemple la date de dépôt de la convention par l'étudiant.
+
+L'affichage est assurée par une timeline permettant de retracer l'historique de l'étudiant.
 
 Revisions
 ===
