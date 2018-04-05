@@ -10,6 +10,8 @@ The student will be guided through easy steps to his Internship convention
 
 ## Home (first time):
 
+The first time the student access the app, he must create is account.
+
 ### Step 1 : Student information
 
 - Level : L3, M1, M2
@@ -47,7 +49,7 @@ The student will be guided through easy steps to his Internship convention
 
 ## Home (Logged in) :
 
-<!-- To be defined -->
+- Student can download his Internship convention
 
 Revisions
 ===
