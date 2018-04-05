@@ -6,7 +6,7 @@ Le but principal de ce document est de définir l'interface utilisateur pour les
 
 Le CDS doit pouvoir suivre la progression des étudiants, leur envoyer des rappels ou des documents.
 
-## Page Home
+## Page Home
 
 La page Home doit afficher toutes les informations que le CDS doit connaître.
 Ces informations seront affichées dans plusieurs composants composants la page Home.
